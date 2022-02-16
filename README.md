@@ -13,7 +13,7 @@ and pass the preposition using the prolog syntax in form of horn clauses.
     - Si A entonces B => If A then B
     - Si A y B entonces C => If A and B then C
     - Si A o B entonces C and D => If A and B then C and D
-* Where A, B, C and can be any word. That's it's not necessary write the prepositions with with one char.
+    * Where A, B, C and can be any word. That's it's not necessary write the prepositions with with one char.
 
 - The user can enter the number of preposition she/he want.
 - After enter all preposition, the system request a fact/predicate based in the preposition entered by the user.
