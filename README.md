@@ -1,4 +1,4 @@
-## Prolog CLI Software with Java jpl
+## Prolog CLI Software with Java and jpl
 
 The main goal of this project is to practice prolog and java jpl library.
 
